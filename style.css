@@ -60,6 +60,12 @@ img
     display: flex;
     padding-right: 20px;
 }
+
+.burger
+{
+    display: none;
+    height: 0%;
+}
 .navbar ul li
 {
     margin-right: 30px;
